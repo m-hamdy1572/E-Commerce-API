@@ -176,7 +176,7 @@ GET  get checkout session for online paid   /api/v1/orders/checkout-session/6415
 
 ## :man: Project Created & Maintained By -
 
-- **Hey guys, I'm Jayvardhan. Find out more about me** [ here](https://www.linkedin.com/in/mahmoud-hamdi-62bb1223b)
+- **Hey guys, I'm Mahmhoud Hamdi. Find out more about me** [ here](https://www.linkedin.com/in/mahmoud-hamdi-62bb1223b)
 - **Reach out to me at** [mahmoud.backend.dev@gmail.com](mahmoud.backend.dev@gmail.com)
 
 <h3 align="right">Built with :heart: by Mahmoud Hamdi</h3>
